@@ -11,7 +11,7 @@ fig = plt.figure(figsize=[12,6])
 sz = 4
 wd = 2
 plt.plot( 'x', 'y', data=df, marker='o', markerfacecolor='green', markersize=sz, color='green', linewidth=wd, label="y:x")
-font = {'family': 'Times New Roman','weight': 'normal','size': 18,}
+font = {'family': 'times-new-roman','weight': 'normal','size': 18,}
 plt.xlabel('x',font)
 plt.ylabel('y',font)
 plt.legend(prop=font)
