@@ -1,4 +1,4 @@
-## python download font for matplotlib
+## python download font for matplotlib in Pace-Cluster
 > By Bai Bin(*1600013520@pku.edu.cn*)\
 > Last updated: 2021/02/01
 
@@ -15,7 +15,7 @@ the output is:
 /usr/local/pace-apps/manual/packages/anaconda3/2020.02/lib/python3.7/site-packages/matplotlib/mpl-data/matplotlibrc
 ```
 ### 2. download font
-download font in this path:https: //www.fontpalace.com\n
+download font in this path:https: //www.fontpalace.com \n
 move downloaded font file to font directory:
 ```
 cd /usr/local/pace-apps/manual/packages/anaconda3/2020.02/lib/python3.7/site-packages/matplotlib/mpl-data/fonts/ttf
