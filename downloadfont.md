@@ -38,11 +38,13 @@ rm -rf /storage/home/hcoda1/1/bbai32/.cache/matplotlib
 ```
 vi /storage/home/hcoda1/1/bbai32/.conda/envs/penv/lib/python3.9/site-packages/matplotlib/mpl-data/matplotlibrc
 ```
-the file shows:
+change the follow items:
 ```
-font.family         : sans-serif      
-font.sans-serif     : SimHei, Bitstream Vera Sans, Lucida Grande, Verdana, Geneva, Lucid, Arial, Helvetica, Avant Garde, sans-serif  
-axes.unicode_minus  : False
+ font.family         : sans-serif   
+ # uncomment     
+ font.sans-serif     : SimHei, Bitstream Vera Sans, Lucida Grande, Verdana, Geneva, Lucid, Arial, Helvetica, Avant Garde, sans-serif  
+ # uncomment and add your new font after colon
+ axes.unicode_minus  : False
+ # uncomment and change True into False
 ```
-add your font at second line
 ### 5. restart python
