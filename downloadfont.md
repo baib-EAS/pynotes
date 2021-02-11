@@ -1,6 +1,6 @@
 ## python download font for matplotlib in Pace-Cluster
 > By Bai Bin(*1600013520@pku.edu.cn*)\
-> Last updated: 2021/02/01
+> Last updated: 2021/02/11
 
 According to: https://blog.csdn.net/sinat_40875078/article/details/104326855
 ### 1.check font path
